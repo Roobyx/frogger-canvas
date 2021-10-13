@@ -1,0 +1,32 @@
+{
+	"name": "webber_nbu",
+	"version": "0.0.1",
+	"description": "A frogger clone game written in web technologies - canvas. The project is made for New Bulgarian University",
+	"private": true,
+	"scripts": {
+		"dev": "parcel ./src/index.pug -p 6123",
+		"build": "parcel build ./src/index.pug"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://gitlab.com/Roobyx/frogger_nbu.git"
+	},
+	"keywords": [
+		"frogger",
+		"canvas"
+	],
+	"author": "Marian Radev, Katrin Kumanova, Tania Topacharova",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://gitlab.com/Roobyx/frogger_nbu/issues"
+	},
+	"homepage": "https://gitlab.com/Roobyx/frogger_nbu#readme",
+	"dependencies": {
+		"async_hooks": "^1.0.0"
+	},
+	"devDependencies": {
+		"parcel-bundler": "^1.12.3",
+		"pug": "^2.0.3",
+		"sass": "^1.19.0"
+	}
+}

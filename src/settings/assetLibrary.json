@@ -1,0 +1,84 @@
+[
+	{
+		"name": "ground_purple",
+		"srcPath": "terrain/ground_purple.png",
+	},{
+		"name": "ground_purple",
+		"srcPath": "terrain/ground_purple.png"
+	},{
+		"name": "ground_green_small",
+		"srcPath": "terrain/ground_green_small.png"
+	},{
+		"name": "ground_green_big",
+		"srcPath": "terrain/ground_green_big.png"
+	},{
+		"name": "water_main",
+		"srcPath": "terrain/water.png"
+	},{
+		"name": "road",
+		"srcPath": "terrain/road.png"
+	},{
+		"name": "flag",
+		"srcPath": "terrain/flag.png"
+	},{
+		"name": "startScreen",
+		"srcPath": "others/start.jpg"
+	},{
+		"name": "frogImage",
+		"srcPath": "actors/player/frog.png"
+	},{
+		"name": "car1_right",
+		"srcPath": "actors/obstacles/car1_right.png"
+	},{
+		"name": "car1_left",
+		"srcPath": "actors/obstacles/car1_left.png"
+	},{
+		"name": "car2_right",
+		"srcPath": "actors/obstacles/car2_right.png"
+	},{
+		"name": "car2_left",
+		"srcPath": "actors/obstacles/car2_left.png"
+	},{
+		"name": "truck_right",
+		"srcPath": "actors/obstacles/truck_right.png"
+	},{
+		"name": "truck_left",
+		"srcPath": "actors/obstacles/truck_left.png"
+	},{
+		"name": "log",
+		"srcPath": "actors/obstacles/log.png"
+	},{
+		"name": "logX2",
+		"srcPath": "actors/obstacles/logX2.png"
+	},{
+		"name": "logX3",
+		"srcPath": "actors/obstacles/logX3.png"
+	},{
+		"name": "turtle_right",
+		"srcPath": "actors/obstacles/turtle_right.png"
+	},{
+		"name": "turtle_left",
+		"srcPath": "actors/obstacles/turtle_left.png"
+	},{
+		"name": "backgroundMusicAsset",
+		"srcPath": "audio/music/background.mp3"
+	},{
+	 	"name": "newLiveAsset",
+		"srcPath": "audio/sounds/newLive.wav"
+	},{
+		"name": "coinAsset",
+		"srcPath": "audio/sounds/coin.wav"
+	},{
+	 	"name": "carHitAsset",
+		"srcPath": "audio/sounds/carHit.wav"
+	},{
+		"name": "drownAsset",
+		"srcPath": "audio/sounds/drown.wav"
+	},{
+		"name": "jumpAsset",
+		"srcPath": "audio/sounds/jump.wav"
+	},{
+		"name": "outOfTimeAsset",
+		"srcPath": "audio/sounds/outOfTime.wav"
+	}
+]

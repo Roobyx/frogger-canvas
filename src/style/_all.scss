@@ -1,0 +1,31 @@
+// File to include all style files
+// ------------------------------------
+@import "flex";
+@import "board";
+// @import "layout";
+
+
+body {
+	@font-face {
+		font-family: 'Arcade';
+		src: url('../assets/sd/others/arcade.ttf');
+		// src: local('BankGothic Md BT'), local('BankGothicBTMedium'), url('bankgthd-webfont.woff') format('tff'), url('bankgthd-webfont.ttf') format('truetype'), url('bankgthd-webfont.svg#webfontNgZtDOtM') format('svg');
+		font-weight: normal;
+		font-style: normal;
+	}
+
+	background-image: url(../assets/sd/others/nbu_blurred.jpg);
+	background-size: cover;
+	background-position: 50%;
+	background-repeat: no-repeat;
+
+	.fHld {
+		content: '';
+		background-color: rgba(0,0,0, .40);
+		height: 100%;
+		width: 100%;
+		position: fixed;
+		top: 0;
+		left: 0;
+	}
+}
