@@ -1,7 +1,5 @@
 # Webber
-## A Frogger clone for the web, written in html canvas
-### Written by Marian Radev, Katrin Kumanova, Tania Topacharova for New Bulgarian University
-
+## A Frogger js canvas clone for the web
 
 ## Dev installation:
 - Install Nodejs - https://nodejs.org/en/ 10.15.3+
